@@ -10,6 +10,8 @@ repositories {
     mavenLocal()
 }
 
+jar.archiveName = "cadc-log.jar"
+
 sourceCompatibility = 1.7
 
 group = 'org.opencadc'
